@@ -1,0 +1,35 @@
+body{
+    background-color:blue;
+    text-align: center;
+    
+}
+
+h1{
+    display: inline-block;
+    color:blue;
+    background-color:white;
+    text-align: center;
+    width: 250px;
+}
+#heading{
+    padding-bottom: 30px;
+    padding-top: 150px;
+
+}
+#timer{
+padding-bottom: 30px;
+}
+
+.btn-secondary{
+   background-color:mediumturquoise;
+   border-radius: 20px;
+   width: 100px;
+   font-weight: bold;
+}
+.btn-secondary:hover{
+    color: mediumturquoise;
+    background-color:grey;
+    border-radius: 20px;
+    width: 100px;
+    font-weight: bold;
+ }
